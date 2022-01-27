@@ -38,6 +38,8 @@ footer,header,hgroup,menu,nav,section {
 
 nav p {
     padding: 0px 20px;
+    display: block;
+    float:right;
 }
 
 blockquote, q {
