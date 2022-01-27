@@ -36,6 +36,9 @@ footer,header,hgroup,menu,nav,section {
     display:block;
 }
 
+nav p {
+    padding: 0px 20px;
+
 nav ul {
     list-style:none;
 }
