@@ -39,10 +39,6 @@ footer,header,hgroup,menu,nav,section {
 nav p {
     padding: 0px 20px;
 
-nav ul {
-    list-style:none;
-}
-
 blockquote, q {
     quotes:none;
 }
