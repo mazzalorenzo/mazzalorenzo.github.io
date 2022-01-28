@@ -46,12 +46,6 @@ footer,header,hgroup,menu,nav,section {
     display:block;
 }
 
-nav p {
-    padding: 0px 20px;
-    display: block;
-    float:right;
-}
-
 blockquote, q {
     quotes:none;
 }
@@ -114,6 +108,10 @@ input, select {
 }
 
 nav p {
+    padding: 0px 20px;
+    display: block;
+    position: fixed;
+    right: 100px;
     font-family: Harrington;
 }
 
@@ -143,7 +141,10 @@ nav li a {
 
 nav img {
     display: block;
-    float: right;
+    position: fixed;
+    right: 0px;
+    top: 0px;
+    z-index: 1;
 }
 
 nav li a:hover {
@@ -163,7 +164,7 @@ h1 {
 }
 
 body {
-  background-image: url('/paneeolio/Images/IMG_20220114_093506.jpg');
+  background-image: url('/paneeolio/img/IMG_20220114_093506.jpg');
   background-size: cover;
 }
 
