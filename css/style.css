@@ -117,7 +117,7 @@ nav p {
 
 nav ul {
     list-style-type: none;
-    margin: 0;
+    margin: 0 100;
     padding: 0;
     width: 100%;
     border: 1px solid #e7e7e7;
