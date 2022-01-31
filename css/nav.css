@@ -6,7 +6,19 @@ nav {
 
 nav div .logo {
     padding: 0px 20px;
-    float:left;
+    float: left;
+}
+
+#pane {
+    color: #d5b800;
+    font-size: 30px;
+    font-family: Harrington;
+}
+
+#olio {
+    color: #255025;
+    font-size: 30px;
+    font-family: Harrington;
 }
     
 div.logo img {
@@ -31,17 +43,6 @@ nav ul li a {
     display: block;
     padding: 0px 20px;
     color: #255025;
-    text-decoration: none;
-}
-
-nav img {
-    display: block;
-    position: fixed;
-    left: 0px;
-    top: 0px;
-    z-index: 1;
-    padding: 7px 8px;
-    color: white;
     text-decoration: none;
 }
 
