@@ -1,9 +1,9 @@
 @font-face {
     font-family: 'Harrington';
-    src:url('/paneeolio/Harrington.ttf.woff') format('woff'),
-        url('/paneeolio/Harrington.ttf.svg#Harrington') format('svg'),
-        url('/paneeolio/Harrington.ttf.eot'),
-        url('/paneeolio/Harrington.ttf.eot?#iefix') format('embedded-opentype'); 
+    src:url('/fonts/Harrington.ttf.woff') format('woff'),
+        url('/fonts/Harrington.ttf.svg#Harrington') format('svg'),
+        url('/fonts/Harrington.ttf.eot'),
+        url('/fonts/Harrington.ttf.eot?#iefix') format('embedded-opentype'); 
     font-weight: normal;
     font-style: normal;
 }
