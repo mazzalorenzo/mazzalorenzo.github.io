@@ -107,12 +107,9 @@ input, select {
     vertical-align:middle;
 }
 
-nav p {
+nav div .logo {
     padding: 0px 20px;
-    display: block;
-    position: fixed;
-    right: 100px;
-    font-family: Harrington;
+    float:left;
 }
 
 nav ul {
