@@ -142,9 +142,12 @@ nav li a {
 nav img {
     display: block;
     position: fixed;
-    right: 0px;
+    left: 0px;
     top: 0px;
     z-index: 1;
+    padding: 14px 16px;
+    color: white;
+    text-decoration: none;
 }
 
 nav li a:hover {
@@ -164,7 +167,7 @@ h1 {
 }
 
 body {
-  background-image: url('/paneeolio/img/IMG_20220114_093506.jpg');
+  background-image: url('/img/IMG_20220114_093506.jpg');
   background-size: cover;
 }
 
