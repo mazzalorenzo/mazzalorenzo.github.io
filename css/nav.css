@@ -9,6 +9,14 @@ nav div .logo {
     float: left;
 }
 
+.logo ul {
+    width: 100px;
+}
+
+.logo li {
+    test-align: center;
+}
+
 #pane {
     color: #d5b800;
     font-size: 30px;
@@ -25,26 +33,26 @@ div.logo img {
     margin-left: 100px
 }
 
-nav ul {
+nav ul.menu {
     list-style-type: none;
     margin: 0px 200px;
     float: left;
 }
 
-nav ul li {
+nav ul.menu li {
     float: left;
     text-align: center;
     line-height: 100px;
 }
 
-nav ul li a {
+nav ul.menu li a {
     display: block;
     padding: 0px 20px;
     color: #255025;
     text-decoration: none;
 }
 
-nav li a:hover {
+nav ul.menu li a:hover {
     background-color: #111;
 }
 
